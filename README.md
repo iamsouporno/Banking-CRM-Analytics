@@ -1,6 +1,5 @@
-[Bank CRM Analysis]
-
 # 🏦 Banking CRM Analytics: Churn Reduction & Retention Strategy (SQL + Power BI)
+![Bank CRM Analysis](Images/Cover.png)
 
 ## 📌 Project Summary
 
